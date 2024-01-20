@@ -21,5 +21,5 @@ This is an implementation of ZUC using Python. When the programs executed, the t
 [MIT](https://opensource.org/license/mit/)
 
 # References
-[Thonny](https://thonny.org/)
-[Python](https://www.python.org/)
+- [Thonny](https://thonny.org/)
+- [Python](https://www.python.org/)
