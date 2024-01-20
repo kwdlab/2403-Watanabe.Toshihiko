@@ -1,15 +1,24 @@
-MIT License
+**Overview**
+This is an implementation of ZUC using Python. When the programs executed, the time of encrypting 640000 bits and whether the encrypting is succeed are displayed on the console.
 
-Copyright (c) 2024 Toshihiko Watanabe
+**Description**
+- All of the programs in this repository will show the time of encrypting 640000bits and whether the encrypting is succeed when executed.
+- The programs with the suffix called "RasPico" assume that you run the ZUC with Python on Raspberry Pi Pico. When the programs exected, the results are displayed on the screen.
+- The programs without suffix called "RasPico" assume that you run the ZUC with Python on PC. When the programs exected, the results are displayed on the console.
+- The programs with the prefix "Optimized" are programs that speeds up the program with no prefix.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+**Requirement**
+Python 3.9.2+
+Thonny IDE
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+**Install**
+`git clone https://github.com/kwdlab/2403-Watanabe.Toshihiko.git`
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+**Author**
+[Toshihiko Watanabe](https://github.com/adwerf)
+
+**License**
+[Thonny](https://opensource.org/license/mit/)
+
+**References**
+[Thonny](https://thonny.org/)
